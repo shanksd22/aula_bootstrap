@@ -1,0 +1,27 @@
+
+body {
+    font: 20px Verdana;
+}
+
+.navbar {
+    background-color: lightgrey;
+}
+
+.quem-somos {
+    background-color: violet;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #ccc;
+}
+
+.bg-footer {
+    background-color: violet;
+    color: white;
+}
